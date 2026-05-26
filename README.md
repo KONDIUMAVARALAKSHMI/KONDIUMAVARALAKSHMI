@@ -5,16 +5,16 @@
 ### Full Stack & AI Developer · Building Real-World Software Products
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/kondi-uma-varalakshmi-8a1069291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:umakondi167@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+  <a href="https://kondiumavaralakshmi.github.io/My_Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
+  <a href="https://leetcode.com/u/UmaVaraLakshmi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -58,16 +58,16 @@ Parses multi-endpoint GitHub REST APIs to surface contribution velocity, languag
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Offline AI Support Agent](https://github.com/KONDIUMAVARALAKSHMI/offline-ai-support-agent)
-> Privacy-first LLM chatbot — zero data leaves the machine
+### 🤖 [AI Academic Advisor (MCP)](https://github.com/KONDIUMAVARALAKSHMI/ai-academic-advisor-mcp)
+> LLM-powered educational guide implementing Model Context Protocol
 
-Runs Llama 3.2 locally via Ollama with a FastAPI backend managing session context, streaming inference, and response caching — no cloud dependency.
+Integrates Ollama and Model Context Protocol (MCP) to access local course syllabi and university guidelines, providing contextual, evidence-based academic recommendations.
 
-- On-premise LLM inference with streaming token output
-- Session-aware context management and chat history
-- Real-time response metrics dashboard
+- Model Context Protocol integration for dynamic academic data retrieval
+- Contextual recommendation engine for tailored student guidance
+- Asynchronous Python backend with streaming response capability
 
-**Stack:** `FastAPI` `Ollama` `Llama 3.2` `React.js` `Tailwind CSS`
+**Stack:** `Python` `Ollama` `Model Context Protocol` `FastAPI`
 
 </td>
 </tr>
@@ -88,32 +88,32 @@ End-to-end CRM with JWT role-based access control, a drag-and-drop Kanban pipeli
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Stock Price Forecaster](https://github.com/KONDIUMAVARALAKSHMI/stock-price-prediction)
-> ML-powered trend forecasting system for financial time-series
+### 💳 [CQRS Banking Ledger](https://github.com/KONDIUMAVARALAKSHMI/banking-cqrs-event-sourcing)
+> Financial ledger system featuring asynchronous command-query segregation
 
-Data pipeline extracts and normalises historical market data, engineers technical indicators (MA, volatility, RSI), then trains and validates regression models.
+High-throughput ledger system implementing Command Query Responsibility Segregation (CQRS) and Event Sourcing for auditability and transactional integrity.
 
-- Feature engineering: Moving Averages, RSI, Bollinger Bands
-- Model evaluation with MSE, MAE, and directional accuracy
-- Forecast vs. actuals visualised on interactive charts
+- Event-driven system with immutable event logging and replay
+- Separation of write (command) and read (query) databases
+- Optimistic concurrency control for transaction synchronization
 
-**Stack:** `Python` `Pandas` `Scikit-Learn` `Matplotlib` `Flask`
+**Stack:** `Node.js` `Express.js` `MongoDB` `EventSourcing` `JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [Smart Exam Seat Allocator](https://github.com/KONDIUMAVARALAKSHMI/smart-exam-seating-allocation)
-> Constraint-based scheduling engine for academic institutions
+### 🌐 [Multi-Tenant SaaS Platform](https://github.com/KONDIUMAVARALAKSHMI/multi-tenant-saas)
+> Full-stack SaaS application with dynamic tenant isolation
 
-Automated seat allocation replacing a manual hours-long process. A constraint-satisfaction algorithm assigns students to rooms respecting hall capacity, subject conflicts, and spacing rules.
+Multi-tenant SaaS architecture supporting dynamic tenant isolation, customizable branding, and centralized subscription administration.
 
-- Processes hundreds of students in under a second
-- Configurable room layouts and subject conflict rules
-- Exports print-ready hall seating maps as PDFs
+- Dynamic tenant routing and database isolation policies
+- Centralized administrator panel and tenant provisioning pipeline
+- Subscription-based middleware and feature flag management
 
-**Stack:** `Python` `Flask` `React.js` `Algorithms`
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `SaaS`
 
 </td>
 <td width="50%" valign="top">
@@ -228,11 +228,8 @@ Distributed processing of large-scale CDR datasets using Hadoop MapReduce to ext
 ## Coding Profiles
 
 <p>
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
+  <a href="https://leetcode.com/u/UmaVaraLakshmi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Challenges-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
 </p>
 
@@ -242,6 +239,6 @@ Distributed processing of large-scale CDR datasets using Hadoop MapReduce to ext
 
 *Open to internship opportunities in Full Stack, AI, and Product Engineering roles.*
 
-**[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Portfolio](https://YOUR_PORTFOLIO.com) · [Email](mailto:YOUR_EMAIL@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/kondi-uma-varalakshmi-8a1069291) · [Portfolio](https://kondiumavaralakshmi.github.io/My_Portfolio/) · [Email](mailto:umakondi167@gmail.com)**
 
 </div>
