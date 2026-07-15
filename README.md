@@ -2,7 +2,7 @@
 
 # Kondi Uma Varalakshmi
 
-### Full Stack & AI Developer · Building Real-World Software Products
+### Software Engineer • Full Stack Developer • AI Enthusiast
 
 <p>
   <a href="https://www.linkedin.com/in/kondi-uma-varalakshmi-8a1069291" target="_blank">
@@ -27,7 +27,9 @@
 
 ## About
 
-I build **full-stack web applications**, **AI-integrated tools**, and **data-driven platforms** that solve real-world problems. My work spans the full product lifecycle — from API design and database architecture to frontend dashboards and LLM integrations.
+I am a Computer Science undergraduate passionate about building scalable software, full-stack web applications, backend systems, REST APIs, and AI-powered solutions using modern technologies.
+
+I enjoy designing clean, maintainable software that solves real-world problems while continuously learning modern software engineering practices.
 
 Currently focused on:
 
@@ -38,6 +40,14 @@ Currently focused on:
 
 ---
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,fastapi,django,mongodb,postgres,mysql,docker,git,github,postman,vscode" />
+</p>
+
+---
+
 ## Featured Projects
 
 <table>
@@ -45,6 +55,7 @@ Currently focused on:
 <td width="50%" valign="top">
 
 ### 🔍 [GitHub Developer Analyzer](https://github.com/KONDIUMAVARALAKSHMI/github-developer-analyzer)
+
 > Developer analytics platform for deep GitHub profile insights
 
 Parses multi-endpoint GitHub REST APIs to surface contribution velocity, language distribution, and repository growth metrics on an interactive dashboard.
@@ -59,6 +70,7 @@ Parses multi-endpoint GitHub REST APIs to surface contribution velocity, languag
 <td width="50%" valign="top">
 
 ### 🤖 [AI Academic Advisor (MCP)](https://github.com/KONDIUMAVARALAKSHMI/ai-academic-advisor-mcp)
+
 > LLM-powered educational guide implementing Model Context Protocol
 
 Integrates Ollama and Model Context Protocol (MCP) to access local course syllabi and university guidelines, providing contextual, evidence-based academic recommendations.
@@ -75,6 +87,7 @@ Integrates Ollama and Model Context Protocol (MCP) to access local course syllab
 <td width="50%" valign="top">
 
 ### 📋 [LeadFlow — CRM Platform](https://github.com/KONDIUMAVARALAKSHMI/leadflow-crm-fullstack)
+
 > Full-stack CRM for lead management and pipeline tracking
 
 End-to-end CRM with JWT role-based access control, a drag-and-drop Kanban pipeline, and a PostgreSQL schema supporting multi-stage lead workflows.
@@ -89,6 +102,7 @@ End-to-end CRM with JWT role-based access control, a drag-and-drop Kanban pipeli
 <td width="50%" valign="top">
 
 ### 💳 [CQRS Banking Ledger](https://github.com/KONDIUMAVARALAKSHMI/banking-cqrs-event-sourcing)
+
 > Financial ledger system featuring asynchronous command-query segregation
 
 High-throughput ledger system implementing Command Query Responsibility Segregation (CQRS) and Event Sourcing for auditability and transactional integrity.
@@ -105,6 +119,7 @@ High-throughput ledger system implementing Command Query Responsibility Segregat
 <td width="50%" valign="top">
 
 ### 🌐 [Multi-Tenant SaaS Platform](https://github.com/KONDIUMAVARALAKSHMI/multi-tenant-saas)
+
 > Full-stack SaaS application with dynamic tenant isolation
 
 Multi-tenant SaaS architecture supporting dynamic tenant isolation, customizable branding, and centralized subscription administration.
@@ -119,6 +134,7 @@ Multi-tenant SaaS architecture supporting dynamic tenant isolation, customizable
 <td width="50%" valign="top">
 
 ### 📡 [Hadoop CDR Analytics](https://github.com/KONDIUMAVARALAKSHMI/hadoop-cdr-analytics)
+
 > Big data pipeline for telecom call-detail record analysis
 
 Distributed processing of large-scale CDR datasets using Hadoop MapReduce to extract call patterns, peak usage windows, and subscriber activity metrics.
@@ -193,12 +209,12 @@ Distributed processing of large-scale CDR datasets using Hadoop MapReduce to ext
 
 ## Currently Exploring
 
-| Area | What I'm Working On |
-|---|---|
-| 🧠 **Agentic AI** | Multi-agent orchestration with LangChain + CrewAI on locally-deployed models |
+| Area                       | What I'm Working On                                                           |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| 🧠 **Agentic AI**          | Multi-agent orchestration with LangChain + CrewAI on locally-deployed models  |
 | 🔎 **RAG & Vector Search** | Retrieval-Augmented Generation with ChromaDB and pgvector for semantic search |
-| ⚡ **Real-time Systems** | WebSocket-based live data pipelines and event-driven backend patterns |
-| 🐳 **Containerisation** | Docker Compose multi-service deployments and environment management |
+| ⚡ **Real-time Systems**   | WebSocket-based live data pipelines and event-driven backend patterns         |
+| 🐳 **Containerisation**    | Docker Compose multi-service deployments and environment management           |
 
 ---
 
@@ -237,7 +253,7 @@ Distributed processing of large-scale CDR datasets using Hadoop MapReduce to ext
 
 <div align="center">
 
-*Open to internship opportunities in Full Stack, AI, and Product Engineering roles.*
+_Open to internship opportunities in Full Stack, AI, and Product Engineering roles._
 
 **[LinkedIn](https://www.linkedin.com/in/kondi-uma-varalakshmi-8a1069291) · [Portfolio](https://kondiumavaralakshmi.github.io/My_Portfolio/) · [Email](mailto:umakondi167@gmail.com)**
 
