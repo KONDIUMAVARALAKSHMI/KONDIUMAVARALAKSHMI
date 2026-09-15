@@ -49,7 +49,7 @@ Currently focused on:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,sql,react,nodejs,express,fastapi,mongodb,postgres,mysql,redis,docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,fastapi,mongodb,postgres,mysql,redis,docker,git,github,postman,vscode" />
 </p>
 
 ---
