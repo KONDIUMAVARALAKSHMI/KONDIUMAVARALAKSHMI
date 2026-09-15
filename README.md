@@ -204,8 +204,8 @@ Parses multi-endpoint GitHub REST APIs to surface contribution velocity, languag
 
 </td>
 <td valign="top" width="25%">
-**AI & Data**
 
+  **AI & Data**
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat-square&logo=ollama&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
