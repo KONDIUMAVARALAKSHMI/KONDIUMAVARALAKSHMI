@@ -119,8 +119,7 @@ Separates transactional writes from read operations while maintaining an immutab
 **Stack:** `Node.js` `Express.js` `MongoDB` `CQRS` `Event Sourcing`
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### 📋 [LeadFlow — CRM Platform](https://github.com/KONDIUMAVARALAKSHMI/leadflow-crm-fullstack)
