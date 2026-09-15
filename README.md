@@ -202,6 +202,8 @@ Parses multi-endpoint GitHub REST APIs to surface contribution velocity, languag
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 
+</td>
+<td valign="top" width="25%">
 **AI & Data**
 
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat-square&logo=ollama&logoColor=white)
@@ -264,6 +266,9 @@ Parses multi-endpoint GitHub REST APIs to surface contribution velocity, languag
 <p>
   <a href="https://leetcode.com/u/UmaVaraLakshmi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/uma_05" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-2%20Star-%235B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
