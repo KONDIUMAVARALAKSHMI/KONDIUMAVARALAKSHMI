@@ -72,8 +72,7 @@ Parses multi-endpoint GitHub REST APIs to surface contribution velocity, languag
 
 **Stack:** `React.js` `Node.js` `Express.js` `Chart.js` `REST APIs`
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 [AI Academic Advisor (MCP)](https://github.com/KONDIUMAVARALAKSHMI/ai-academic-advisor-mcp)
