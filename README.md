@@ -2,7 +2,7 @@
 
 # Kondi Uma Varalakshmi
 
-### Software Engineer • Full Stack Developer • AI Enthusiast
+### Computer Science Engineer • AI & Backend Developer • Full-Stack Engineer
 
 <p>
   <a href="https://www.linkedin.com/in/kondi-uma-varalakshmi-8a1069291" target="_blank">
@@ -27,16 +27,18 @@
 
 ## About
 
-I am a Computer Science undergraduate passionate about building scalable software, full-stack web applications, backend systems, REST APIs, and AI-powered solutions using modern technologies.
+II’m a Computer Science undergraduate focused on building reliable backend systems, full-stack applications, and AI-powered products.
 
-I enjoy designing clean, maintainable software that solves real-world problems while continuously learning modern software engineering practices.
+I work primarily with Python, Node.js, FastAPI, React, PostgreSQL, MongoDB, Docker, and REST APIs, and I enjoy exploring LLMs, RAG, semantic search, asynchronous systems, and distributed backend patterns.
+
+I learn by building projects that solve practical problems and by continuously improving my understanding of software engineering, system design, and AI engineering.
 
 Currently focused on:
 
-- 🤖 **Offline AI systems** — local LLM orchestration using Ollama for privacy-first automation
-- 📊 **Analytics platforms** — developer tools and dashboards powered by real-time data
-- 🏗️ **Full-stack products** — CRM systems, REST APIs, and authenticated web apps
-- 🔬 **ML applications** — time-series forecasting and data pipeline engineering
+- 🤖 AI Engineering — LLM applications, RAG, semantic search, MCP and local AI with Ollama
+- ⚙️ Backend Engineering — asynchronous APIs, Redis, PostgreSQL, event-driven systems and system design
+- 🏗️ Full-Stack Development — React, Node.js, FastAPI, authentication and SaaS architectures
+- 🐳 Infrastructure — Docker, multi-service deployments and production-oriented development
 
 ---
 
@@ -71,15 +73,47 @@ Parses multi-endpoint GitHub REST APIs to surface contribution velocity, languag
 
 ### 🤖 [AI Academic Advisor (MCP)](https://github.com/KONDIUMAVARALAKSHMI/ai-academic-advisor-mcp)
 
-> LLM-powered educational guide implementing Model Context Protocol
+> AI-powered academic assistant using local LLMs and Model Context Protocol
 
-Integrates Ollama and Model Context Protocol (MCP) to access local course syllabi and university guidelines, providing contextual, evidence-based academic recommendations.
+Combines Ollama with MCP to retrieve relevant course syllabi and university guidelines, enabling contextual and evidence-based academic assistance.
 
-- Model Context Protocol integration for dynamic academic data retrieval
-- Contextual recommendation engine for tailored student guidance
-- Asynchronous Python backend with streaming response capability
+* MCP-based retrieval of academic resources and university guidelines
+* Context-aware recommendations grounded in retrieved information
+* Asynchronous FastAPI backend with streaming responses
 
-**Stack:** `Python` `Ollama` `Model Context Protocol` `FastAPI`
+**Stack:** `Python` `Ollama` `MCP` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [LLM Semantic Router](https://github.com/KONDIUMAVARALAKSHMI/LLM-SemanticRouter)
+
+> Embedding-based routing system for directing queries to specialized AI workflows
+
+Uses semantic similarity to classify incoming queries and route them to specialized expert personas, with confidence-based fallback and request logging.
+
+* Embedding-based intent classification across multiple domains
+* Confidence threshold with manual routing override
+* JSONL request logging and Dockerized FastAPI service
+
+**Stack:** `Python` `FastAPI` `Embeddings` `Semantic Search` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 [CQRS Banking Ledger](https://github.com/KONDIUMAVARALAKSHMI/banking-cqrs-event-sourcing)
+
+> Financial ledger system exploring CQRS and Event Sourcing
+
+Separates transactional writes from read operations while maintaining an immutable event history for auditability and state reconstruction.
+
+* Event-driven architecture with immutable event logging and replay
+* Separate command and query data flows
+* Optimistic concurrency control for transaction consistency
+
+**Stack:** `Node.js` `Express.js` `MongoDB` `CQRS` `Event Sourcing`
 
 </td>
 </tr>
@@ -90,63 +124,49 @@ Integrates Ollama and Model Context Protocol (MCP) to access local course syllab
 
 > Full-stack CRM for lead management and pipeline tracking
 
-End-to-end CRM with JWT role-based access control, a drag-and-drop Kanban pipeline, and a PostgreSQL schema supporting multi-stage lead workflows.
+End-to-end CRM with JWT-based role access, Kanban pipeline management, and PostgreSQL-backed lead workflows.
 
-- RBAC authentication with JWT — admin and agent roles
-- Kanban pipeline with drag-and-drop lead transitions
-- Analytics dashboard: conversion rates, activity timelines
+* Role-based authentication with admin and agent permissions
+* Drag-and-drop Kanban pipeline for lead management
+* Analytics dashboard for conversion and activity tracking
 
 **Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 [CQRS Banking Ledger](https://github.com/KONDIUMAVARALAKSHMI/banking-cqrs-event-sourcing)
+### 🌐 [Multi-Tenant SaaS Platform](https://github.com/KONDIUMAVARALAKSHMI/multi-tenant-saas)
 
-> Financial ledger system featuring asynchronous command-query segregation
+> Full-stack SaaS application designed around tenant isolation
 
-High-throughput ledger system implementing Command Query Responsibility Segregation (CQRS) and Event Sourcing for auditability and transactional integrity.
+Implements a multi-tenant architecture with tenant-aware routing, customizable branding, and centralized administration.
 
-- Event-driven system with immutable event logging and replay
-- Separation of write (command) and read (query) databases
-- Optimistic concurrency control for transaction synchronization
+* Tenant-aware routing and data isolation
+* Centralized tenant provisioning and administration
+* Subscription middleware and feature-flag management
 
-**Stack:** `Node.js` `Express.js` `MongoDB` `EventSourcing` `JavaScript`
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Multi-Tenant SaaS Platform](https://github.com/KONDIUMAVARALAKSHMI/multi-tenant-saas)
+### 🔍 [GitHub Developer Analyzer](https://github.com/KONDIUMAVARALAKSHMI/github-developer-analyzer)
 
-> Full-stack SaaS application with dynamic tenant isolation
+> Developer analytics platform built around GitHub REST APIs
 
-Multi-tenant SaaS architecture supporting dynamic tenant isolation, customizable branding, and centralized subscription administration.
+Analyzes GitHub profile and repository data to surface contribution patterns, language distribution, repository growth, and coding activity.
 
-- Dynamic tenant routing and database isolation policies
-- Centralized administrator panel and tenant provisioning pipeline
-- Subscription-based middleware and feature flag management
+* Multi-endpoint GitHub REST API integration
+* Contribution trends, language analysis, and activity visualizations
+* Client-side caching and interactive developer comparisons
 
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `SaaS`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 [Hadoop CDR Analytics](https://github.com/KONDIUMAVARALAKSHMI/hadoop-cdr-analytics)
-
-> Big data pipeline for telecom call-detail record analysis
-
-Distributed processing of large-scale CDR datasets using Hadoop MapReduce to extract call patterns, peak usage windows, and subscriber activity metrics.
-
-- MapReduce jobs for aggregating millions of CDR records
-- Peak-hour detection and subscriber segmentation
-- Results visualised in tabular and chart formats
-
-**Stack:** `Hadoop` `MapReduce` `Python` `HDFS`
+**Stack:** `React.js` `Node.js` `Express.js` `Chart.js` `REST APIs`
 
 </td>
 </tr>
+
 </table>
 
 ---
