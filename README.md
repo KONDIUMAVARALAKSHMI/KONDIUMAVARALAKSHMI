@@ -17,6 +17,9 @@
   <a href="https://leetcode.com/u/UmaVaraLakshmi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://www.codechef.com/users/uma_167" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-2%20Star-%235B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=KONDIUMAVARALAKSHMI&style=flat-square&color=6366f1&label=Profile+Views" />
@@ -31,7 +34,8 @@ I’m a Computer Science undergraduate focused on building reliable backend syst
 
 I work primarily with Python, Node.js, FastAPI, React, PostgreSQL, MongoDB, Docker, and REST APIs, and I enjoy exploring LLMs, RAG, semantic search, asynchronous systems, and distributed backend patterns.
 
-I learn by building projects that solve practical problems and by continuously improving my understanding of software engineering, system design, and AI engineering.
+I learn by building practical projects while continuously improving my understanding of software engineering, system design, and AI engineering.
+
 
 Currently focused on:
 
@@ -45,7 +49,7 @@ Currently focused on:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,fastapi,django,mongodb,postgres,mysql,docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,sql,react,nodejs,express,fastapi,mongodb,postgres,mysql,redis,docker,git,github,postman,vscode" />
 </p>
 
 ---
@@ -68,7 +72,7 @@ Parses multi-endpoint GitHub REST APIs to surface contribution velocity, languag
 
 **Stack:** `React.js` `Node.js` `Express.js` `Chart.js` `REST APIs`
 
-</td>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [AI Academic Advisor (MCP)](https://github.com/KONDIUMAVARALAKSHMI/ai-academic-advisor-mcp)
@@ -84,8 +88,7 @@ Combines Ollama with MCP to retrieve relevant course syllabi and university guid
 **Stack:** `Python` `Ollama` `MCP` `FastAPI`
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### 🧠 [LLM Semantic Router](https://github.com/KONDIUMAVARALAKSHMI/LLM-SemanticRouter)
@@ -133,6 +136,7 @@ End-to-end CRM with JWT-based role access, Kanban pipeline management, and Postg
 **Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `JWT`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🌐 [Multi-Tenant SaaS Platform](https://github.com/KONDIUMAVARALAKSHMI/multi-tenant-saas)
@@ -149,25 +153,10 @@ Implements a multi-tenant architecture with tenant-aware routing, customizable b
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 [GitHub Developer Analyzer](https://github.com/KONDIUMAVARALAKSHMI/github-developer-analyzer)
-
-> Developer analytics platform built around GitHub REST APIs
-
-Analyzes GitHub profile and repository data to surface contribution patterns, language distribution, repository growth, and coding activity.
-
-* Multi-endpoint GitHub REST API integration
-* Contribution trends, language analysis, and activity visualizations
-* Client-side caching and interactive developer comparisons
-
-**Stack:** `React.js` `Node.js` `Express.js` `Chart.js` `REST APIs`
-
-</td>
-</tr>
 
 </table>
+
+
 
 ---
 
@@ -203,13 +192,14 @@ Analyzes GitHub profile and repository data to surface contribution patterns, la
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 
 **AI & Data**
 
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat-square&logo=ollama&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-
+`RAG` `Embeddings` `Semantic Search`
 </td>
 <td valign="top" width="25%">
 
@@ -231,10 +221,10 @@ Analyzes GitHub profile and repository data to surface contribution patterns, la
 
 | Area                       | What I'm Working On                                                           |
 | -------------------------- | ----------------------------------------------------------------------------- |
-| 🧠 **Agentic AI**          | Multi-agent orchestration with LangChain + CrewAI on locally-deployed models  |
-| 🔎 **RAG & Vector Search** | Retrieval-Augmented Generation with ChromaDB and pgvector for semantic search |
-| ⚡ **Real-time Systems**   | WebSocket-based live data pipelines and event-driven backend patterns         |
-| 🐳 **Containerisation**    | Docker Compose multi-service deployments and environment management           |
+| 🧠 **Agentic AI**          | Multi-agent workflows with LangChain, CrewAI and local LLMs |
+| 🔎 **RAG & Vector Search** | ChromaDB, pgvector and semantic retrieval |
+| ⚡ **Real-time Systems**   | WebSockets and event-driven backend patterns |
+| 🐳 **Infrastructure**      | Docker Compose and multi-service deployments |
 
 ---
 
@@ -273,7 +263,7 @@ Analyzes GitHub profile and repository data to surface contribution patterns, la
 
 <div align="center">
 
-_Open to internship opportunities in Full Stack, AI, and Product Engineering roles._
+_Open to internship opportunities in AI Engineering, Software Engineering, Backend, and Full-Stack roles._
 
 **[LinkedIn](https://www.linkedin.com/in/kondi-uma-varalakshmi-8a1069291) · [Portfolio](https://kondiumavaralakshmi.github.io/My_Portfolio/) · [Email](mailto:umakondi167@gmail.com)**
 
