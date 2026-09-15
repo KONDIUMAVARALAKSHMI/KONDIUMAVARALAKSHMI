@@ -57,22 +57,9 @@ Currently focused on:
 ## Featured Projects
 
 <table>
+
+<!-- Row 1 -->
 <tr>
-<td width="50%" valign="top">
-
-### 🔍 [GitHub Developer Analyzer](https://github.com/KONDIUMAVARALAKSHMI/github-developer-analyzer)
-
-> Developer analytics platform for deep GitHub profile insights
-
-Parses multi-endpoint GitHub REST APIs to surface contribution velocity, language distribution, and repository growth metrics on an interactive dashboard.
-
-- Real-time GitHub API integration with client-side caching
-- Commit frequency heatmaps and language breakdown charts
-- Profile comparison and coding pattern analysis
-
-**Stack:** `React.js` `Node.js` `Express.js` `Chart.js` `REST APIs`
-</td>
-
 <td width="50%" valign="top">
 
 ### 🤖 [AI Academic Advisor (MCP)](https://github.com/KONDIUMAVARALAKSHMI/ai-academic-advisor-mcp)
@@ -104,6 +91,10 @@ Uses semantic similarity to classify incoming queries and route them to speciali
 **Stack:** `Python` `FastAPI` `Embeddings` `Semantic Search` `Docker`
 
 </td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
 <td width="50%" valign="top">
 
 ### 💳 [CQRS Banking Ledger](https://github.com/KONDIUMAVARALAKSHMI/banking-cqrs-event-sourcing)
@@ -135,7 +126,10 @@ End-to-end CRM with JWT-based role access, Kanban pipeline management, and Postg
 **Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `JWT`
 
 </td>
+</tr>
 
+<!-- Row 3 -->
+<tr>
 <td width="50%" valign="top">
 
 ### 🌐 [Multi-Tenant SaaS Platform](https://github.com/KONDIUMAVARALAKSHMI/multi-tenant-saas)
@@ -151,10 +145,25 @@ Implements a multi-tenant architecture with tenant-aware routing, customizable b
 **Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🔍 [GitHub Developer Analyzer](https://github.com/KONDIUMAVARALAKSHMI/github-developer-analyzer)
+
+> Developer analytics platform for deep GitHub profile insights
+
+Parses multi-endpoint GitHub REST APIs to surface contribution velocity, language distribution, and repository growth metrics on an interactive dashboard.
+
+* Real-time GitHub API integration with client-side caching
+* Commit frequency heatmaps and language breakdown charts
+* Profile comparison and coding pattern analysis
+
+**Stack:** `React.js` `Node.js` `Express.js` `Chart.js` `REST APIs`
+
+</td>
 </tr>
 
 </table>
-
 
 
 ---
