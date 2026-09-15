@@ -71,7 +71,8 @@ Parses multi-endpoint GitHub REST APIs to surface contribution velocity, languag
 - Profile comparison and coding pattern analysis
 
 **Stack:** `React.js` `Node.js` `Express.js` `Chart.js` `REST APIs`
-
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
