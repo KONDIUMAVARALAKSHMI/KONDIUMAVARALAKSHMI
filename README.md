@@ -27,7 +27,7 @@
 
 ## About
 
-II’m a Computer Science undergraduate focused on building reliable backend systems, full-stack applications, and AI-powered products.
+I’m a Computer Science undergraduate focused on building reliable backend systems, full-stack applications, and AI-powered products.
 
 I work primarily with Python, Node.js, FastAPI, React, PostgreSQL, MongoDB, Docker, and REST APIs, and I enjoy exploring LLMs, RAG, semantic search, asynchronous systems, and distributed backend patterns.
 
