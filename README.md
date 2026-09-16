@@ -17,7 +17,7 @@
   <a href="https://leetcode.com/u/UmaVaraLakshmi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.codechef.com/users/uma_167" target="_blank">
+  <a href="https://www.codechef.com/users/uma_05" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-2%20Star-%235B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
